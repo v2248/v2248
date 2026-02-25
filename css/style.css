@@ -1,0 +1,12 @@
+:root {
+    --text-color: #ff00ff;
+    --bg-color: black;
+    --accent-color: cyan;
+    --font-title: "Helvetica", sans-serif;
+    --font-text: "Helvetica", sans-serif;
+ }
+ 
+ body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+ }
